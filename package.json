@@ -17,6 +17,7 @@
     "form"
   ],
   "files": [
+    "src/*",
     "dist/jquery.addressfield.js",
     "dist/jquery.addressfield.min.js",
     "docs/**/*"
